@@ -1,0 +1,15 @@
+{
+  "name": "pocket",
+  "version": "0.1.0",
+  "description": "A simple, small, file system-based data store for Node.js",
+  "author": "Jared Hanson <jaredhanson@gmail.com> (http://www.jaredhanson.net/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jaredhanson/pocket.git"
+  },
+  "main": "./lib/pocket",
+  "dependencies": {
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "keywords": ["db", "database", "datastore", "nosql"]
+}
