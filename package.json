@@ -9,6 +9,7 @@
   },
   "main": "./lib/pocket",
   "dependencies": {
+    "mkdirp": ">= 0.2.1"
   },
   "engines": { "node": ">= 0.4.0" },
   "keywords": ["db", "database", "datastore", "nosql"]
